@@ -2,6 +2,9 @@
 Application developed to manage user notes.
 The system offers several functionalities that allow the user to register, update and filter notes, link useful links, create tags, with each tag being associated with a specific note.
 
+### !Important!
+*I was studying some concepts, and I did this project with pure javascript, but soon it will be refactored to typescript, I will put more tests, and leave the entire structure in SOLID*
+
 ## How to start the project?
 
 1 - Run `npm install` to install the required dependencies...
